@@ -1,6 +1,7 @@
 # Volt::Kube
 
-TODO: Write a gem description
+It is an alternative CSS Framework, and replaces [volt-bootstrap](https://github.com/voltrb/volt-bootstrap).
+
 
 ## Installation
 
@@ -16,9 +17,10 @@ Or install it yourself as:
 
     $ gem install volt-kube
 
-## Usage
+## ToDos
 
-TODO: Write usage instructions here
+  - [x] replace bootstrap in volt app
+  - [ ] replace bootstrap in volt-user-template
 
 ## Contributing
 
