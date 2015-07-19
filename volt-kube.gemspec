@@ -7,7 +7,7 @@ version = File.read(File.expand_path('../VERSION', __FILE__)).strip
 
 Gem::Specification.new do |spec|
   spec.name          = "volt-kube"
-  spec.version       = version
+  spec.version       = Volt::Kube::VERSION
   spec.authors       = ["LeFnord"]
   spec.email         = ["pscholz.le@gmail.com"]
   spec.summary       = %q{Add Kube CSS framework}
