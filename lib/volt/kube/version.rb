@@ -1,3 +1,5 @@
-module Volt::Kube
-  VERSION = "0.1.0"
+class Volt
+  class Kube
+    VERSION = '0.0.2'
+  end
 end
